@@ -1,6 +1,6 @@
 # Dynamic-web-scraper
 
-- Overview
+# Overview
   
 This Python project automates the process of collecting book data from BooksToScrape.com using Selenium and stores the extracted titles and prices in an Excel file using openpyxl.
 
